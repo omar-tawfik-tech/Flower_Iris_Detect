@@ -1,0 +1,16 @@
+.venv
+.vscode
+# Python virtual environment
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# VSCode or IDE configs
+.vscode/
+.idea/
